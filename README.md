@@ -1,1 +1,3 @@
-<img width="470" height="1179" alt="image" src="https://github.com/user-attachments/assets/db172f61-e7cf-40dd-b399-2115136d4ad1" />
+<a href="https://solsticeengineering.co/">
+  <img width="700" height="700" alt="solsticelogo" src="https://github.com/user-attachments/assets/10b75c51-0023-4b91-8d4a-11d0332cc695" />
+</a>
