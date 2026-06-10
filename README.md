@@ -48,17 +48,11 @@ AI Systems Engineer with 6+ years of experience building AI systems and leading 
 ### AI Systems Engineer | Dream AI
 *October 2020 – March 2025*
 
-- Managed a team of engineers maintaining the internal infrastructure and inference pipelines in the Dream plugin.
-- Engineered real-time AI inference pipelines for UE5 Let's Dream, a plugin for Unreal Engine 4 that uses computer vision AI filters to turn greybox environments into AI concept-completed renders.
-- Designed and maintained a RAG system for a user-system knowledgebase to generate and suggest prompts for user-style generation of AI images.
+- Helped start and ground-up engineered an AI diffusion plugin for unreal engine, allowing users to create AI concept images from greybox environments.
+- Met with our contacts at Nvidia and Epic Games for gathering funding and updating on progress/status.
+- Worked other day jobs during my time at Dream, as it was an unpaid working style.
 
 ---
-
-### Software Engineer | Dream AI
-*May 2020 – October 2020*
-
-- Developed core application functionality in Python and C++, iterating on features for interactive real-time applications.
-- Learned key concepts of computer vision and proper implementation from the company's founder.
 
 ---
 
