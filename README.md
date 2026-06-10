@@ -58,7 +58,7 @@ AI Systems Engineer with 6+ years of experience building AI systems and leading 
 
 ## Education
 
-### Associate of Science, Computer Science
+### Core 40 Technical Honors, Computer Science
 **Ivy Tech Community College** | August 2018 – May 2020
 
 - Completed accelerated coursework beginning in high school through dual enrollment, finishing a full computer science curriculum within two years.
