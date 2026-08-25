@@ -11,7 +11,7 @@ joshrobertsaiml@gmail.com | (812) 791-2800 | Eastern US | github.com/TheJoshCode
 
 ## Professional Summary
 
-AI Systems Engineer with 6+ years of experience building AI systems and leading teams of industry experts in software and AI engineering. Holds an Associate of Science in Computer Science from Ivy Tech Community College. Has a contacts list of recommendations from top tech and DoD leadership. Builder who loves to lead. Early adopter of AI-Assisted Development and avid Claude Code user with both cloud and edge models.
+AI/ML Engineering Leader with 7+ years building production-grade AI systems across defense and enterprise environments, including 3+ years directly leading and growing engineering teams. Co-founded and led engineering for the Dream AI platform, recruiting and managing a team of AI/software engineers from early-stage build-out through production. Deep hands-on experience with generative AI, multi-agent architectures, and Model Context Protocol (MCP) agents, backed by a track record of turning ambiguous problems into shipped platform capabilities. Comfortable operating at both the roadmap and implementation level, with cross-functional stakeholder experience spanning defense leadership (OUSD(R&E), USAF), industry partners (Nvidia, Epic Games), and internal engineering teams. Fluent in Python and C++, with working knowledge of MLOps, vector databases, and real-time inference pipelines.
 
 ---
 
@@ -29,36 +29,31 @@ AI Systems Engineer with 6+ years of experience building AI systems and leading 
 
 ## Professional Experience
 
-### Distinguished AI Engineering Consultant | Freelancer.com
+### Engineering Consultant | Freelancer.com
 *November 2025 – Present*
 
-- Design and deliver embedded + cloud AI agent systems for corporate clients as a recognized SME of AI systems.
-
+- Design and integrate custom 3D simulation environments, real-time spatial assets, and embedded multi-agent AI systems for corporate and defense-facing client applications.
+- Lead operational evaluations and performance red-teaming on deployed spatial AI tools and LLM agentic workflows to close vulnerabilities and establish client security SOPs.
 ---
 
 ### Senior AI Engineer | Code19 Racing
 *March 2025 – November 2025*
 
-- Led full-cycle development of Maveric AI, a real-time AI race crew chief system ingesting live telemetry from an autonomous Formula-style racecar and delivering situational awareness and voice-based feedback to drivers and pit crews.
-- Managed a team of AI engineers and UX developers to scale Maveric from prototype to a production-ready system deployed for the F1 league.
-- Competed at Department of Defense (DoD) events focused on autonomous agents and situational awareness at military installations; collaborated directly with soldiers and DoD personnel to refine UX for practical field use.
-
+- Led a cross-functional team of AI and UX engineers as engineering lead on Maveric AI, a low-latency race crew chief system processing live telemetry for autonomous Formula-style cars, owning technical direction and delivery.
+- Built and refined digital twin environments to validate autonomous vehicle performance ahead of track deployment, accelerating situational-awareness decision loops.
+- Represented the team at DoD autonomous agent evaluation events (RAPTER, RDER, BAFB), engaging directly with military stakeholders to refine field usability and translate operator feedback into engineering priorities.
 ---
 
-### AI Systems Engineer | Dream AI
+### Lead AI Engineer | Dream AI
 *October 2020 – March 2025*
 
-- Helped start and ground-up engineered an AI diffusion plugin for unreal engine, allowing users to create AI concept images from greybox environments.
-- Met with our contacts at Nvidia and Epic Games for gathering funding and updating on progress/status.
-- Worked other day jobs during my time at Dream, as it was an unpaid working style.
-
----
-
+- Helped found and scale the Dream AI engineering platform; recruited, hired, and managed a growing team of AI and software engineers, owning performance feedback, coaching, and technical growth.
+- Set technical direction and prioritization for the platform roadmap, translating ambiguous product goals into concrete engineering milestones across the team.
+- Partnered directly with Nvidia and Epic Games to align software roadmaps, report progress, and secure program-level support — owning cross-organizational stakeholder communication.
+- Directed engine and rendering optimization work, including low-level RTOS/Linux/C++ frameworks and Unreal Engine rendering pipelines using dynamic lightmaps and point-cloud rendering.
 ---
 
 ## Education
 
-### Core 40 Technical Honors, Computer Science
-**Ivy Tech Community College** | August 2018 – May 2020
-
-- Completed accelerated coursework beginning in high school through dual enrollment, finishing a full computer science curriculum within two years.
+### Core 40 Technical Honors, Computer Science — Ivy Tech Community College — 2018
+### Mechanical Engineering — Indiana State University — 2020
